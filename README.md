@@ -10,7 +10,7 @@
 
 ![loan pic](https://github.com/Algora-NG/LOAN-DEFAULT-PREDICTION/assets/153315141/b455b48a-fb1d-4db7-a118-f181697e8512)
 
-#INTRODUCTION
+# INTRODUCTION
 
 In the ever-evolving landscape of financial services, lending institutions face the critical challenge of mitigating risks associated with loan defaults. Accurately predicting which clients are likely to default on their loans is paramount for maintaining financial stability and ensuring the growth of both the institutions and the broader economy. Banks and lending institutions can lower the frequency of non-performing loans by making better choices by precisely identifying high-risk borrowers. With the use of statistical and machine learning methods, this research seeks to create a reliable predictive model for loan default predictions.
 My primary objectives for this project are threefold:
