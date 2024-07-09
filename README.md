@@ -16,13 +16,13 @@ In the ever-evolving landscape of financial services, lending institutions face 
 
 My primary objectives for this project are threefold:
 
-1. Develop a Classification Model: My goal is to produce a trustworthy and precise classification model that can forecast a client's likelihood of loan default. Through the utilization of diverse machine learning methodologies and financial datasets, our goal is to create a model that can be relied upon by financial institutions to make well-informed loan choices.
+1. Develop a Classification Model: My goal is to produce a trustworthy and precise classification model that can forecast a client's likelihood of loan default. Through the utilization of diverse machine learning methodologies and financial datasets, my goal is to create a model that can be relied upon by financial institutions to make well-informed loan choices.
 
-2. Features' Significance Recommendations: Our goal goes beyond merely forecasting loan defaults; we also want to give financial institutions useful information about the significant factors that affect a client's probability of default. By focusing on the most predictive variables when evaluating loan applications, these insights will enable institutions to improve their loan application and approval procedures.
+2. Features' Significance Recommendations: my objectives goes beyond merely forecasting loan defaults; i also want to give financial institutions useful information about the significant factors that affect a client's probability of default. By focusing on the most predictive variables when evaluating loan applications, these insights will enable institutions to improve their loan application and approval procedures.
 
-3. Deployment to API and Web Application: Using Streamlit, we will integrate the final classification model into a user-friendly web application and expose it as an API to guarantee the model's practical utility. Real-time prediction and smooth integration into financial institutions' current operations will be made possible by this implementation.
+3. Deployment to API and Web Application: Using Streamlit, i will integrate the final classification model into a user-friendly web application and expose it as an API to guarantee the model's practical utility. Real-time prediction and smooth integration into financial institutions' current operations will be made possible by this implementation.
 
-Our goals with this initiative are to lower loan risks, improve the decision-making capabilities of financial institutions, and improve the stability and effectiveness of the financial industry as a whole.
+My goals with this initiative are to lower loan risks, improve the decision-making capabilities of financial institutions, and improve the stability and effectiveness of the financial industry as a whole.
 
 ## Data Dictionary
 The dataset comprises over 200 observations and includes 16 input features and a target variable. These features are::
