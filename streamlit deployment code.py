@@ -40,7 +40,7 @@ def make_prediction(_model, _scaler, _col_name, X_pred):
 	loan = np.hstack([num_scaled, loan[:, 9:]])
 	prediction = model.predict(loan)
 	if prediction == 1:
-		return 'Thief! Loan not approved for you'
+		return 'Sorry! Loan not approved for you'
 	else:
 		return 'Loan Approved! Don’t let us regret this'
 
