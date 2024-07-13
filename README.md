@@ -75,6 +75,10 @@ I utilized the following tools and technologies for this project
  
 ● Git
 
+● Render
+
+● Heroku
+
 ● Streamlit
 
 
